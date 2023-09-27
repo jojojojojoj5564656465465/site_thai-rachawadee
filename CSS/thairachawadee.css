@@ -1,0 +1,134 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #000000;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	color: #351a0C;
+	font-size: 10px;
+}
+#wrapper {
+	text-align: left;
+	width: 930px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#header {
+	margin: 0px;
+	height: 220px;
+}
+#logo {
+	height: 190px;
+}
+#nav {
+	height: 30px;
+}
+#content {
+	margin-top: 0px;
+	padding-top: 0px;
+	height: 330px;
+	border: 1px solid #a05e18;
+}
+#leftcolumncontent {
+	float: left;
+	width: 217px;
+	background-image: url(../images/content_left.gif);
+	background-repeat: no-repeat;
+	height: 330px;
+}
+#rightcolumncontent {
+	float: right;
+	width: 711px;
+	height: 330px;
+}
+#footer {
+	clear: both;
+	height: 20px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#leftcolumn {
+	float: left;
+	width: 218px;
+}
+#rightcolumn {
+	float: right;
+	width: 710px;
+}
+.textBrun10 {
+	color: #351a0c;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10pt;
+}
+.textBrun11 {
+	color: #351a0c;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+}
+.textBrun12 {
+	font-size: 12px;
+	color: #351a0c;
+}
+.text9 {font-size: 9px}
+.textBlanc10 {
+	color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 14px;
+}
+.textBlanc11 {
+	color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+}
+.textBlanc12 {
+	font-size: 12px;
+	color: #ffffff;
+}
+.texteBlanc16 {
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.textOr10 {
+	color: #ecbf75;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+}
+.textOr11 {
+	color: #ecbf75;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 14px;
+}
+.textOr12 {
+	font-size: 12px;
+	color: #ecbf75;
+}
+.texteOr16 {
+	font-size: 16px;
+	color: #ecbf75;
+}
+.textMiel7 {
+	font-size: 7px;
+	color: #a05e18;
+}
+a:link {
+	color: #ecbf75;
+}
+a:visited {
+	color: #ecbf75;
+}
+a:hover {
+	color: #ecbf75;
+}
+a:active {
+	color: #ecbf75;
+}
